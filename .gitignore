@@ -1,2 +1,3 @@
 /.vscode
 /HousePricePrediction/.ipynb_checkpoints
+*/.ipynb_checkpoints/
